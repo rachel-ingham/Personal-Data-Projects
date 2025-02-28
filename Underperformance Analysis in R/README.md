@@ -58,6 +58,7 @@ The majority of the company's sales in June, July, and August come from transfer
 
 The Central Warehouse had the most summer sales overall, while the West Warehouse had the least sales in both Wholesale and Retail client categories. The sales in each warehouse location are pretty evenly split between the client types, although the West warehouse is the only location where the Retail total sales was slightly higher than the Wholesale total sales. The West warehouse sold about half as many items as the other two locations, which would result in the lowest overall sales. The Central warehouse has increased sales over the summer months, while the West warehouse has seen a decrease in sales. 
 
+### Recommendations
 The summer sales data shows that the West warehouse is an underperformer when compared to the other two warehouse locations. There could be many reasons for the lower sales at the West location, so further investigation is needed. Of greatest concern, is the decreasing sales numbers at the West warehouse (almost a 28% decrease). Some possible recommmendations for next steps include: 
   - Investigate if sales techniques are different at the three warehouse locations, can teh Central location provide successful methods?
   - Move some salespeople from the Central location to the West warehouse to improve sales at that location.
