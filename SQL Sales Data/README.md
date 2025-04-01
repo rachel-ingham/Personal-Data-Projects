@@ -62,7 +62,7 @@ View the dataset on Google Sheets https://docs.google.com/spreadsheets/d/1yYP6ez
       - Joining the sales and customers tables together, I counted the number of transaction ids, total the quantity of each transaction and the total amount in USD, making sure to group by customer_id and ordering by total revenue. 
         ![image](https://github.com/user-attachments/assets/74356e42-d834-4259-9cb3-b8edb9c4c5e0)
         
-In working this query, I discovered that there was one customer in the data that had an id number but not a name. I then decided to list out the transaction data for this customer for further review.
+In working this query, I discovered that there was one customer in the data that had an id number but not a name. I then decided to list out the transaction data for this customer for further review. Upon closer inspection, since there are only 50 customers in the customers dataset, this appears to be a typo and the Customer Id of 51 is incorrect. We would need to further investigate which customer made this purchase and correct the mistake.
         ![image](https://github.com/user-attachments/assets/9231cf65-1f29-43f9-99a5-8568064a0998)
 
   5. Find the top 3 customers by total revenue in the first half of 2024 so they can receive Most Valuable Customer bonus products.
